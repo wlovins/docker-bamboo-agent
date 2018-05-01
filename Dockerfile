@@ -13,3 +13,4 @@ RUN apt-get install -y oracle-java8-installer
 RUN apt-get install -y oracle-java8-set-default
 
 CMD /root/run-agent.sh
+
